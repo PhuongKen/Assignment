@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b205710-387a-4a17-8905-aa6e34ba7cae" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="YYAccount.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYAccount.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <marker date="1529504372640" expanded="false" signature="6:141" ph="..." />
+                <marker date="1529504372640" expanded="true" signature="174:5171" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="205:278" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="310:5169" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="1019:1104" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="1239:1682" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="1271:1413" ph="/* Tiến hành mã hoá password người dùng nhập vào kèm theo muối được lấy từ db. ... */" />
+                <marker date="1529504372640" expanded="true" signature="1497:1623" ph="/* So sánh hai chuỗi password đã mã hoá. Nếu trùng nhau thì trả về true. ... */" />
+                <marker date="1529504372640" expanded="true" signature="1728:1968" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="1787:1894" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="2014:2100" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="2137:2231" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="2264:2354" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="2382:2462" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="2494:2582" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="2614:2702" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="2734:2822" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="2859:2957" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="2989:3075" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="3111:3207" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="3236:3318" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="3353:3447" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="3478:3564" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="3591:3669" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="3696:3780" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="3813:3903" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="3936:4026" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="4062:4146" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="4278:5163" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="4481:4587" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="4623:4740" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="4790:4945" ph="{...}" />
+                <marker date="1529504372640" expanded="true" signature="4986:5090" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringHeroBank/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+              <folding>
+                <marker date="1529499885295" expanded="true" signature="6:98" ph="..." />
+                <marker date="1529499885295" expanded="true" signature="144:647" ph="{...}" />
+                <marker date="1529499885295" expanded="true" signature="249:632" ph="{...}" />
+                <marker date="1529499885295" expanded="true" signature="342:622" ph="{...}" />
+                <marker date="1529499885295" expanded="true" signature="418:503" ph="{...}" />
+                <marker date="1529499885295" expanded="true" signature="524:608" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationView.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringHeroBank/view/ApplicationView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1">
+              <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+              <folding>
+                <marker date="1529563021682" expanded="false" signature="6:98" ph="..." />
+                <marker date="1529563021682" expanded="true" signature="129:4453" ph="{...}" />
+                <marker date="1529563021682" expanded="true" signature="164:4451" ph="{...}" />
+                <marker date="1529563021682" expanded="true" signature="347:2032" ph="{...}" />
+                <marker date="1529563021682" expanded="true" signature="382:2022" ph="{...}" />
+                <marker date="1529563021682" expanded="true" signature="902:1882" ph="{...}" />
+                <marker date="1529563021682" expanded="true" signature="1945:2008" ph="{...}" />
+                <marker date="1529563021682" expanded="true" signature="2133:4445" ph="{...}" />
+                <marker date="1529563021682" expanded="true" signature="2168:4435" ph="{...}" />
+                <marker date="1529563021682" expanded="true" signature="2964:4295" ph="{...}" />
+                <marker date="1529563021682" expanded="true" signature="4358:4421" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YYTransaction.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYTransaction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <marker date="1529560903781" expanded="true" signature="31:2329" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="64:2327" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="112:232" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="269:365" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="790:810" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="1003:1315" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="1341:1417" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="1448:1532" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="1563:1649" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="1692:1802" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="1847:1961" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="1998:2078" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="2111:2201" ph="{...}" />
+                <marker date="1529560903781" expanded="true" signature="2237:2321" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YYAccountController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringHeroBank/controller/YYAccountController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="261" column="16" selection-start-line="261" selection-start-column="16" selection-end-line="261" selection-end-column="16" />
+              <folding>
+                <marker date="1529683857938" expanded="false" signature="6:242" ph="..." />
+                <marker date="1529683857938" expanded="true" signature="279:12077" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="318:12075" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="417:1064" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="595:859" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="732:814" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="876:1054" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="1074:1260" ph="/* Xử lý đăng nhập người dùng. ... */" />
+                <marker date="1529683857938" expanded="true" signature="1288:3036" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="1628:1885" ph="/* Tìm trong database thông tin tài khoản với username vừa nhập vào. ... */" />
+                <marker date="1529683857938" expanded="true" signature="2056:2114" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="2128:2412" ph="/* Nếu chạy đến đây rồi thì `existingAccount` chắc chắn khác null. ... */" />
+                <marker date="1529683857938" expanded="true" signature="2479:2610" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="2624:2887" ph="/* Trong trường hợp chạy đến đây thì thông tin tài khoản chắc chắn khác null ... */" />
+                <marker date="1529683857938" expanded="true" signature="3087:4767" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="4308:4726" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="4812:5427" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="4957:5155" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="5437:6886" ph="/* Tiến hành chuyển khoản, mặc định là ngân hàng. ... */" />
+                <marker date="1529683857938" expanded="true" signature="6917:8288" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="7339:7763" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="7855:7942" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="7959:8062" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="8320:9694" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="8744:9169" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="9261:9348" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="9365:9468" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="9725:11383" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="10420:10820" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="10950:11037" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="11054:11157" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="11425:12069" ph="{...}" />
+                <marker date="1529683857938" expanded="true" signature="11546:12004" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YYAccountModel.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYAccountModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="328" column="47" selection-start-line="328" selection-start-column="47" selection-end-line="328" selection-end-column="47" />
+              <folding>
+                <marker date="1529683915154" expanded="false" signature="6:260" ph="..." />
+                <marker date="1529683915154" expanded="true" signature="292:27033" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="326:27031" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="379:2024" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="2084:2566" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="2623:3682" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="3091:3560" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="3162:3545" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="3749:4827" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="4236:4705" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="4307:4690" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="4915:10524" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="5152:10281" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="5183:5700" ph="/* 1. Lấy thông tin số dư mới nhất của tài khoản. ... */" />
+                <marker date="1529683915154" expanded="true" signature="6312:6571" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="6351:6471" ph="/* Không tồn tại bản ghi tương ứng, lập tức rollback transaction, trả về false. ... */" />
+                <marker date="1529683915154" expanded="true" signature="7029:7156" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="7389:7508" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="7526:7622" ph="/* 3. Update số dư vào tài khoản. ... */" />
+                <marker date="1529683915154" expanded="true" signature="7708:7809" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="7830:7931" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="10156:10267" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="10334:10432" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="10664:17027" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="10830:16784" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="11441:11564" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="11765:11892" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="12046:12165" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="12862:12985" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="13210:13337" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="16659:16770" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="16837:16935" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="17097:27025" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="17753:19715" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="17999:18107" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="18143:18252" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="18288:18397" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="18871:18978" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="19016:19122" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="19160:19270" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="19308:19412" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="20160:22114" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="20404:20512" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="20548:20657" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="20693:20802" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="21271:21378" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="21416:21522" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="21560:21670" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="21708:21812" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="22571:24533" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="22817:22925" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="22961:23070" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="23106:23215" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="23689:23796" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="23834:23940" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="23978:24088" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="24126:24230" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="24973:26935" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="25219:25327" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="25363:25472" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="25508:25617" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="26091:26198" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="26236:26342" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="26380:26490" ph="{...}" />
+                <marker date="1529683915154" expanded="true" signature="26528:26632" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/controller/YYAccountController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYAccount.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/error/SpringHeroTransactionException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYTransaction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/model/DBConnection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/model/YYAccountModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D34A17E0-2F1F-4C9B-A77F-3DD2A8C23070/7b/5599a265/Transaction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/utility/Hash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/utility/Utility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpringHeroBank/view/ApplicationView.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpringHeroBank/entity/YYTransactionHistory.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/model/DBConnection.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/model/YYTransactionHistoryModel.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/model/YYTransactionModel.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/utility/Hash.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/Program.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/utility/Utility.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/entity/YYAccount.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/entity/YYTransaction.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/view/ApplicationView.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/controller/YYAccountController.cs" />
+        <option value="$PROJECT_DIR$/SpringHeroBank/model/YYAccountModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SpringHeroBank (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SpringHeroBank (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SpringHeroBank" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Banking/Banking.sln" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SpringHeroBank/bin/Debug/netcoreapp2.0/SpringHeroBank.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SpringHeroBank" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SpringHeroBank/SpringHeroBank.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b205710-387a-4a17-8905-aa6e34ba7cae" name="Default" comment="" />
+      <created>1529372790721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529372790721</updated>
+      <workItem from="1529372793010" duration="8204000" />
+      <workItem from="1529499410267" duration="10208000" />
+      <workItem from="1529542987200" duration="19389000" />
+      <workItem from="1529589429180" duration="8345000" />
+      <workItem from="1529672700070" duration="8749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54895000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9885621" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32843137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22692889" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32843137" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32843137" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32843137" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <marker date="1529504372640" expanded="false" signature="6:141" ph="..." />
+            <marker date="1529504372640" expanded="true" signature="174:5171" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="205:278" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="310:5169" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1019:1104" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1239:1682" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1271:1413" ph="/* Tiến hành mã hoá password người dùng nhập vào kèm theo muối được lấy từ db. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1497:1623" ph="/* So sánh hai chuỗi password đã mã hoá. Nếu trùng nhau thì trả về true. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1728:1968" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1787:1894" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2014:2100" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2137:2231" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2264:2354" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2382:2462" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2494:2582" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2614:2702" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2734:2822" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2859:2957" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2989:3075" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3111:3207" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3236:3318" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3353:3447" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3478:3564" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3591:3669" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3696:3780" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3813:3903" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3936:4026" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4062:4146" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4278:5163" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4481:4587" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4623:4740" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4790:4945" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4986:5090" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <marker date="1529499885295" expanded="true" signature="6:98" ph="..." />
+            <marker date="1529499885295" expanded="true" signature="144:647" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="249:632" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="342:622" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="418:503" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="524:608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/view/ApplicationView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+          <folding>
+            <marker date="1529563021682" expanded="false" signature="6:98" ph="..." />
+            <marker date="1529563021682" expanded="true" signature="129:4453" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="164:4451" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="347:2032" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="382:2022" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="902:1882" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="1945:2008" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2133:4445" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2168:4435" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2964:4295" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="4358:4421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1529560903781" expanded="true" signature="31:2329" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="64:2327" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="112:232" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="269:365" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="790:810" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1003:1315" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1341:1417" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1448:1532" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1563:1649" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1692:1802" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1847:1961" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1998:2078" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="2111:2201" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="2237:2321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/controller/YYAccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4301">
+          <caret line="261" column="20" selection-start-line="261" selection-start-column="20" selection-end-line="261" selection-end-column="20" />
+          <folding>
+            <marker date="1529683857938" expanded="false" signature="6:242" ph="..." />
+            <marker date="1529683857938" expanded="true" signature="279:12077" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="318:12075" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="417:1064" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="595:859" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="732:814" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="876:1054" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1074:1260" ph="/* Xử lý đăng nhập người dùng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="1288:3036" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1628:1885" ph="/* Tìm trong database thông tin tài khoản với username vừa nhập vào. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2056:2114" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2128:2412" ph="/* Nếu chạy đến đây rồi thì `existingAccount` chắc chắn khác null. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2479:2610" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2624:2887" ph="/* Trong trường hợp chạy đến đây thì thông tin tài khoản chắc chắn khác null ... */" />
+            <marker date="1529683857938" expanded="true" signature="3087:4767" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4308:4726" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4812:5427" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4957:5155" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="5437:6886" ph="/* Tiến hành chuyển khoản, mặc định là ngân hàng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="6917:8288" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7339:7763" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7855:7942" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7959:8062" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8320:9694" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8744:9169" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9261:9348" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9365:9468" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9725:11383" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10420:10820" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10950:11037" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11054:11157" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11425:12069" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11546:12004" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYAccountModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5644">
+          <caret line="332" column="14" selection-start-line="332" selection-start-column="14" selection-end-line="332" selection-end-column="14" />
+          <folding>
+            <marker date="1529683915154" expanded="false" signature="6:260" ph="..." />
+            <marker date="1529683915154" expanded="true" signature="292:27033" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="326:27031" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="379:2024" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2084:2566" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2623:3682" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3091:3560" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3162:3545" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3749:4827" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4236:4705" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4307:4690" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4915:10524" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5152:10281" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5183:5700" ph="/* 1. Lấy thông tin số dư mới nhất của tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="6312:6571" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="6351:6471" ph="/* Không tồn tại bản ghi tương ứng, lập tức rollback transaction, trả về false. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7029:7156" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7389:7508" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7526:7622" ph="/* 3. Update số dư vào tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7708:7809" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7830:7931" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10156:10267" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10334:10432" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10664:17027" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10830:16784" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11441:11564" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11765:11892" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12046:12165" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12862:12985" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="13210:13337" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16659:16770" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16837:16935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17097:27025" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17753:19715" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17999:18107" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18143:18252" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18288:18397" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18871:18978" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19016:19122" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19160:19270" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19308:19412" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20160:22114" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20404:20512" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20548:20657" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20693:20802" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21271:21378" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21416:21522" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21560:21670" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21708:21812" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22571:24533" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22817:22925" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22961:23070" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23106:23215" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23689:23796" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23834:23940" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23978:24088" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24126:24230" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24973:26935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25219:25327" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25363:25472" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25508:25617" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26091:26198" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26236:26342" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26380:26490" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26528:26632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <marker date="1529504372640" expanded="false" signature="6:141" ph="..." />
+            <marker date="1529504372640" expanded="true" signature="174:5171" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="205:278" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="310:5169" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1019:1104" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1239:1682" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1271:1413" ph="/* Tiến hành mã hoá password người dùng nhập vào kèm theo muối được lấy từ db. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1497:1623" ph="/* So sánh hai chuỗi password đã mã hoá. Nếu trùng nhau thì trả về true. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1728:1968" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1787:1894" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2014:2100" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2137:2231" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2264:2354" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2382:2462" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2494:2582" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2614:2702" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2734:2822" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2859:2957" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2989:3075" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3111:3207" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3236:3318" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3353:3447" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3478:3564" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3591:3669" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3696:3780" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3813:3903" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3936:4026" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4062:4146" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4278:5163" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4481:4587" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4623:4740" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4790:4945" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4986:5090" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <marker date="1529499885295" expanded="true" signature="6:98" ph="..." />
+            <marker date="1529499885295" expanded="true" signature="144:647" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="249:632" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="342:622" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="418:503" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="524:608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/view/ApplicationView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+          <folding>
+            <marker date="1529563021682" expanded="false" signature="6:98" ph="..." />
+            <marker date="1529563021682" expanded="true" signature="129:4453" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="164:4451" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="347:2032" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="382:2022" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="902:1882" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="1945:2008" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2133:4445" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2168:4435" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2964:4295" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="4358:4421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding>
+            <marker date="1529560903781" expanded="true" signature="31:2329" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="64:2327" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="112:232" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="269:365" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="790:810" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1003:1315" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1341:1417" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1448:1532" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1563:1649" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1692:1802" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1847:1961" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1998:2078" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="2111:2201" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="2237:2321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/controller/YYAccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4284">
+          <caret line="252" column="13" lean-forward="true" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
+          <folding>
+            <marker date="1529683857938" expanded="false" signature="6:242" ph="..." />
+            <marker date="1529683857938" expanded="true" signature="279:12077" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="318:12075" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="417:1064" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="595:859" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="732:814" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="876:1054" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1074:1260" ph="/* Xử lý đăng nhập người dùng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="1288:3036" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1628:1885" ph="/* Tìm trong database thông tin tài khoản với username vừa nhập vào. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2056:2114" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2128:2412" ph="/* Nếu chạy đến đây rồi thì `existingAccount` chắc chắn khác null. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2479:2610" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2624:2887" ph="/* Trong trường hợp chạy đến đây thì thông tin tài khoản chắc chắn khác null ... */" />
+            <marker date="1529683857938" expanded="true" signature="3087:4767" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4308:4726" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4812:5427" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4957:5155" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="5437:6886" ph="/* Tiến hành chuyển khoản, mặc định là ngân hàng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="6917:8288" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7339:7763" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7855:7942" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7959:8062" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8320:9694" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8744:9169" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9261:9348" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9365:9468" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9725:11383" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10420:10820" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10950:11037" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11054:11157" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11425:12069" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11546:12004" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYAccountModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5882">
+          <caret line="346" column="38" selection-start-line="346" selection-start-column="38" selection-end-line="346" selection-end-column="38" />
+          <folding>
+            <marker date="1529683915154" expanded="false" signature="6:260" ph="..." />
+            <marker date="1529683915154" expanded="true" signature="292:27033" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="326:27031" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="379:2024" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2084:2566" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2623:3682" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3091:3560" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3162:3545" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3749:4827" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4236:4705" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4307:4690" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4915:10524" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5152:10281" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5183:5700" ph="/* 1. Lấy thông tin số dư mới nhất của tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="6312:6571" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="6351:6471" ph="/* Không tồn tại bản ghi tương ứng, lập tức rollback transaction, trả về false. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7029:7156" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7389:7508" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7526:7622" ph="/* 3. Update số dư vào tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7708:7809" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7830:7931" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10156:10267" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10334:10432" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10664:17027" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10830:16784" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11441:11564" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11765:11892" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12046:12165" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12862:12985" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="13210:13337" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16659:16770" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16837:16935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17097:27025" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17753:19715" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17999:18107" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18143:18252" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18288:18397" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18871:18978" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19016:19122" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19160:19270" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19308:19412" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20160:22114" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20404:20512" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20548:20657" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20693:20802" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21271:21378" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21416:21522" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21560:21670" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21708:21812" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22571:24533" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22817:22925" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22961:23070" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23106:23215" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23689:23796" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23834:23940" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23978:24088" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24126:24230" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24973:26935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25219:25327" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25363:25472" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25508:25617" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26091:26198" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26236:26342" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26380:26490" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26528:26632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/DBConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/error/SpringHeroTransactionException.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <marker date="1529504372640" expanded="false" signature="6:141" ph="..." />
+            <marker date="1529504372640" expanded="true" signature="174:5171" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="205:278" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="310:5169" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1019:1104" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1239:1682" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1271:1413" ph="/* Tiến hành mã hoá password người dùng nhập vào kèm theo muối được lấy từ db. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1497:1623" ph="/* So sánh hai chuỗi password đã mã hoá. Nếu trùng nhau thì trả về true. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1728:1968" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1787:1894" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2014:2100" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2137:2231" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2264:2354" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2382:2462" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2494:2582" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2614:2702" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2734:2822" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2859:2957" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2989:3075" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3111:3207" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3236:3318" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3353:3447" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3478:3564" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3591:3669" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3696:3780" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3813:3903" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3936:4026" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4062:4146" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4278:5163" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4481:4587" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4623:4740" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4790:4945" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4986:5090" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/utility/Hash.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/controller/YYAccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3825">
+          <caret line="232" column="55" selection-start-line="232" selection-start-column="55" selection-end-line="232" selection-end-column="55" />
+          <folding>
+            <marker date="1529683857938" expanded="false" signature="6:242" ph="..." />
+            <marker date="1529683857938" expanded="true" signature="279:12077" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="318:12075" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="417:1064" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="595:859" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="732:814" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="876:1054" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1074:1260" ph="/* Xử lý đăng nhập người dùng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="1288:3036" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1628:1885" ph="/* Tìm trong database thông tin tài khoản với username vừa nhập vào. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2056:2114" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2128:2412" ph="/* Nếu chạy đến đây rồi thì `existingAccount` chắc chắn khác null. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2479:2610" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2624:2887" ph="/* Trong trường hợp chạy đến đây thì thông tin tài khoản chắc chắn khác null ... */" />
+            <marker date="1529683857938" expanded="true" signature="3087:4767" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4308:4726" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4812:5427" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4957:5155" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="5437:6886" ph="/* Tiến hành chuyển khoản, mặc định là ngân hàng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="6917:8288" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7339:7763" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7855:7942" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7959:8062" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8320:9694" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8744:9169" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9261:9348" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9365:9468" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9725:11383" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10420:10820" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10950:11037" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11054:11157" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11425:12069" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11546:12004" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1529560903781" expanded="true" signature="31:2329" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="64:2327" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="112:232" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="269:365" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="790:810" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1003:1315" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1341:1417" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1448:1532" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1563:1649" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1692:1802" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1847:1961" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1998:2078" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="2111:2201" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="2237:2321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <marker date="1529499885295" expanded="true" signature="6:98" ph="..." />
+            <marker date="1529499885295" expanded="true" signature="144:647" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="249:632" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="342:622" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="418:503" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="524:608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/utility/Utility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/view/ApplicationView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="85" column="46" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
+          <folding>
+            <marker date="1529563021682" expanded="false" signature="6:98" ph="..." />
+            <marker date="1529563021682" expanded="true" signature="129:4453" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="164:4451" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="347:2032" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="382:2022" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="902:1882" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="1945:2008" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2133:4445" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2168:4435" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2964:4295" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="4358:4421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYAccountModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="83" column="55" selection-start-line="83" selection-start-column="55" selection-end-line="83" selection-end-column="55" />
+          <folding>
+            <marker date="1529683915154" expanded="false" signature="6:260" ph="..." />
+            <marker date="1529683915154" expanded="true" signature="292:27033" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="326:27031" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="379:2024" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2084:2566" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2623:3682" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3091:3560" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3162:3545" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3749:4827" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4236:4705" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4307:4690" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4915:10524" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5152:10281" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5183:5700" ph="/* 1. Lấy thông tin số dư mới nhất của tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="6312:6571" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="6351:6471" ph="/* Không tồn tại bản ghi tương ứng, lập tức rollback transaction, trả về false. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7029:7156" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7389:7508" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7526:7622" ph="/* 3. Update số dư vào tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7708:7809" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7830:7931" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10156:10267" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10334:10432" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10664:17027" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10830:16784" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11441:11564" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11765:11892" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12046:12165" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12862:12985" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="13210:13337" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16659:16770" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16837:16935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17097:27025" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17753:19715" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17999:18107" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18143:18252" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18288:18397" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18871:18978" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19016:19122" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19160:19270" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19308:19412" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20160:22114" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20404:20512" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20548:20657" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20693:20802" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21271:21378" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21416:21522" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21560:21670" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21708:21812" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22571:24533" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22817:22925" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22961:23070" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23106:23215" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23689:23796" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23834:23940" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23978:24088" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24126:24230" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24973:26935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25219:25327" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25363:25472" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25508:25617" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26091:26198" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26236:26342" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26380:26490" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26528:26632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/DBConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1529504372640" expanded="false" signature="6:141" ph="..." />
+            <marker date="1529504372640" expanded="true" signature="174:5171" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="205:278" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="310:5169" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1019:1104" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1239:1682" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1271:1413" ph="/* Tiến hành mã hoá password người dùng nhập vào kèm theo muối được lấy từ db. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1497:1623" ph="/* So sánh hai chuỗi password đã mã hoá. Nếu trùng nhau thì trả về true. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1728:1968" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1787:1894" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2014:2100" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2137:2231" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2264:2354" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2382:2462" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2494:2582" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2614:2702" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2734:2822" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2859:2957" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2989:3075" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3111:3207" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3236:3318" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3353:3447" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3478:3564" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3591:3669" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3696:3780" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3813:3903" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3936:4026" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4062:4146" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4278:5163" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4481:4587" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4623:4740" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4790:4945" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4986:5090" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/utility/Hash.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYAccountModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <marker date="1529683915154" expanded="false" signature="6:260" ph="..." />
+            <marker date="1529683915154" expanded="true" signature="292:27033" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="326:27031" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="379:2024" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2084:2566" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2623:3682" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3091:3560" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3162:3545" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3749:4827" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4236:4705" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4307:4690" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4915:10524" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5152:10281" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5183:5700" ph="/* 1. Lấy thông tin số dư mới nhất của tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="6312:6571" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="6351:6471" ph="/* Không tồn tại bản ghi tương ứng, lập tức rollback transaction, trả về false. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7029:7156" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7389:7508" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7526:7622" ph="/* 3. Update số dư vào tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7708:7809" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7830:7931" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10156:10267" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10334:10432" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10664:17027" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10830:16784" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11441:11564" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11765:11892" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12046:12165" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12862:12985" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="13210:13337" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16659:16770" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16837:16935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17097:27025" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17753:19715" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17999:18107" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18143:18252" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18288:18397" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18871:18978" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19016:19122" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19160:19270" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19308:19412" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20160:22114" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20404:20512" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20548:20657" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20693:20802" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21271:21378" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21416:21522" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21560:21670" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21708:21812" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22571:24533" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22817:22925" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22961:23070" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23106:23215" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23689:23796" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23834:23940" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23978:24088" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24126:24230" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24973:26935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25219:25327" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25363:25472" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25508:25617" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26091:26198" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26236:26342" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26380:26490" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26528:26632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYTransactionHistoryModel.cs" />
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYTransactionModel.cs" />
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/utility/Utility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <marker date="1529499885295" expanded="true" signature="6:98" ph="..." />
+            <marker date="1529499885295" expanded="true" signature="144:647" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="249:632" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="342:622" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="418:503" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="524:608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/controller/YYAccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <marker date="1529683857938" expanded="false" signature="6:242" ph="..." />
+            <marker date="1529683857938" expanded="true" signature="279:12077" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="318:12075" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="417:1064" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="595:859" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="732:814" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="876:1054" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1074:1260" ph="/* Xử lý đăng nhập người dùng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="1288:3036" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1628:1885" ph="/* Tìm trong database thông tin tài khoản với username vừa nhập vào. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2056:2114" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2128:2412" ph="/* Nếu chạy đến đây rồi thì `existingAccount` chắc chắn khác null. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2479:2610" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2624:2887" ph="/* Trong trường hợp chạy đến đây thì thông tin tài khoản chắc chắn khác null ... */" />
+            <marker date="1529683857938" expanded="true" signature="3087:4767" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4308:4726" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4812:5427" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4957:5155" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="5437:6886" ph="/* Tiến hành chuyển khoản, mặc định là ngân hàng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="6917:8288" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7339:7763" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7855:7942" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7959:8062" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8320:9694" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8744:9169" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9261:9348" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9365:9468" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9725:11383" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10420:10820" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10950:11037" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11054:11157" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11425:12069" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11546:12004" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/view/ApplicationView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding>
+            <marker date="1529563021682" expanded="false" signature="6:98" ph="..." />
+            <marker date="1529563021682" expanded="true" signature="129:4453" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="164:4451" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="347:2032" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="382:2022" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="902:1882" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="1945:2008" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2133:4445" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2168:4435" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2964:4295" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="4358:4421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYTransactionHistoryModel.cs" />
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYTransactionModel.cs" />
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYTransactionHistory.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D34A17E0-2F1F-4C9B-A77F-3DD2A8C23070/7b/5599a265/Transaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/utility/Utility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/DBConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/utility/Hash.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <marker date="1529499885295" expanded="true" signature="6:98" ph="..." />
+            <marker date="1529499885295" expanded="true" signature="144:647" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="249:632" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="342:622" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="418:503" ph="{...}" />
+            <marker date="1529499885295" expanded="true" signature="524:608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <marker date="1529504372640" expanded="false" signature="6:141" ph="..." />
+            <marker date="1529504372640" expanded="true" signature="174:5171" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="205:278" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="310:5169" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1019:1104" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1239:1682" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1271:1413" ph="/* Tiến hành mã hoá password người dùng nhập vào kèm theo muối được lấy từ db. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1497:1623" ph="/* So sánh hai chuỗi password đã mã hoá. Nếu trùng nhau thì trả về true. ... */" />
+            <marker date="1529504372640" expanded="true" signature="1728:1968" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="1787:1894" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2014:2100" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2137:2231" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2264:2354" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2382:2462" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2494:2582" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2614:2702" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2734:2822" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2859:2957" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="2989:3075" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3111:3207" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3236:3318" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3353:3447" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3478:3564" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3591:3669" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3696:3780" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3813:3903" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="3936:4026" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4062:4146" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4278:5163" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4481:4587" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4623:4740" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4790:4945" ph="{...}" />
+            <marker date="1529504372640" expanded="true" signature="4986:5090" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/error/SpringHeroTransactionException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/view/ApplicationView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+          <folding>
+            <marker date="1529563021682" expanded="false" signature="6:98" ph="..." />
+            <marker date="1529563021682" expanded="true" signature="129:4453" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="164:4451" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="347:2032" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="382:2022" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="902:1882" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="1945:2008" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2133:4445" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2168:4435" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="2964:4295" ph="{...}" />
+            <marker date="1529563021682" expanded="true" signature="4358:4421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/entity/YYTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1529560903781" expanded="true" signature="31:2329" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="64:2327" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="112:232" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="269:365" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="790:810" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1003:1315" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1341:1417" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1448:1532" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1563:1649" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1692:1802" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1847:1961" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="1998:2078" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="2111:2201" ph="{...}" />
+            <marker date="1529560903781" expanded="true" signature="2237:2321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/controller/YYAccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="261" column="16" selection-start-line="261" selection-start-column="16" selection-end-line="261" selection-end-column="16" />
+          <folding>
+            <marker date="1529683857938" expanded="false" signature="6:242" ph="..." />
+            <marker date="1529683857938" expanded="true" signature="279:12077" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="318:12075" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="417:1064" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="595:859" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="732:814" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="876:1054" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1074:1260" ph="/* Xử lý đăng nhập người dùng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="1288:3036" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="1628:1885" ph="/* Tìm trong database thông tin tài khoản với username vừa nhập vào. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2056:2114" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2128:2412" ph="/* Nếu chạy đến đây rồi thì `existingAccount` chắc chắn khác null. ... */" />
+            <marker date="1529683857938" expanded="true" signature="2479:2610" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="2624:2887" ph="/* Trong trường hợp chạy đến đây thì thông tin tài khoản chắc chắn khác null ... */" />
+            <marker date="1529683857938" expanded="true" signature="3087:4767" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4308:4726" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4812:5427" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="4957:5155" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="5437:6886" ph="/* Tiến hành chuyển khoản, mặc định là ngân hàng. ... */" />
+            <marker date="1529683857938" expanded="true" signature="6917:8288" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7339:7763" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7855:7942" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="7959:8062" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8320:9694" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="8744:9169" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9261:9348" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9365:9468" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="9725:11383" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10420:10820" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="10950:11037" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11054:11157" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11425:12069" ph="{...}" />
+            <marker date="1529683857938" expanded="true" signature="11546:12004" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHeroBank/model/YYAccountModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="328" column="47" selection-start-line="328" selection-start-column="47" selection-end-line="328" selection-end-column="47" />
+          <folding>
+            <marker date="1529683915154" expanded="false" signature="6:260" ph="..." />
+            <marker date="1529683915154" expanded="true" signature="292:27033" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="326:27031" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="379:2024" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2084:2566" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="2623:3682" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3091:3560" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3162:3545" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="3749:4827" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4236:4705" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4307:4690" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="4915:10524" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5152:10281" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="5183:5700" ph="/* 1. Lấy thông tin số dư mới nhất của tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="6312:6571" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="6351:6471" ph="/* Không tồn tại bản ghi tương ứng, lập tức rollback transaction, trả về false. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7029:7156" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7389:7508" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7526:7622" ph="/* 3. Update số dư vào tài khoản. ... */" />
+            <marker date="1529683915154" expanded="true" signature="7708:7809" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="7830:7931" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10156:10267" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10334:10432" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10664:17027" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="10830:16784" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11441:11564" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="11765:11892" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12046:12165" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="12862:12985" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="13210:13337" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16659:16770" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="16837:16935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17097:27025" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17753:19715" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="17999:18107" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18143:18252" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18288:18397" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="18871:18978" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19016:19122" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19160:19270" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="19308:19412" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20160:22114" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20404:20512" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20548:20657" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="20693:20802" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21271:21378" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21416:21522" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21560:21670" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="21708:21812" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22571:24533" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22817:22925" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="22961:23070" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23106:23215" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23689:23796" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23834:23940" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="23978:24088" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24126:24230" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="24973:26935" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25219:25327" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25363:25472" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="25508:25617" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26091:26198" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26236:26342" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26380:26490" ph="{...}" />
+            <marker date="1529683915154" expanded="true" signature="26528:26632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
