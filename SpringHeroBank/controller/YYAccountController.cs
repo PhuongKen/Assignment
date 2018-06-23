@@ -230,9 +230,17 @@ namespace SpringHeroBank.controller
             Console.WriteLine("Please enter recever account number.");
             var receiverAccountNumber = Console.ReadLine();
             var checkAc = model.GetByAccountNumber(receiverAccountNumber);
+            if (checkAc == null)
+            {
+                Console.WriteLine("Account does not exist");
+            }
             Console.WriteLine("Full Name: " + checkAc.FullName);
             Console.WriteLine("Please enter amount to transfer: ");
             var amount = Utility.GetDecimalNumber();
+            if (amount > Program.currentLoggedInYyAccount.Balance)
+            {
+                Console.WriteLine("Input balances can not be executed. Please retype.");
+            }
             Console.WriteLine("Please enter message content: ");
             var content = Console.ReadLine();
             var historyTransaction = new YYTransaction()
