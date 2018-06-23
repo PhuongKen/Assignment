@@ -8,6 +8,7 @@ namespace SpringHeroBank.view
     public class ApplicationView
     {
         private readonly YYAccountController controller = new YYAccountController();
+        private readonly YYTransactionController _transactionController = new YYTransactionController();
 
         // Hiển thị menu chính của chương trình.
         public void GenerateDefaultMenu()
@@ -89,7 +90,7 @@ namespace SpringHeroBank.view
                         Console.ReadLine();
                         break;
                     case 5:
-                        controller.TransactionHistory();
+                        _transactionController.GetListTransaction();
                         Console.WriteLine("Press enter to continue.");
                         Console.ReadLine();
                         break;

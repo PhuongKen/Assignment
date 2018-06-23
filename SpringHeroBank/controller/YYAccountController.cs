@@ -257,17 +257,5 @@ namespace SpringHeroBank.controller
             Console.WriteLine("Current balance: " + Program.currentLoggedInYyAccount.Balance);
         }
 
-        public void TransactionHistory()
-        {
-            List<YYTransaction> list = model.QueryTransactionHistory();
-            foreach (var tran in list)
-            {
-                Console.WriteLine("Type: " + tran.Type + "\t\t\t Amount: " +tran.Amount
-                                  + "\t\t\t Content: " + tran.Content + "\t\t\t Sender Account Number: " +tran.SenderAccountNumber);
-                Console.WriteLine("Receiver Account Number: " + tran.ReceiverAccountNumber + "\t\t\t Status: " + tran.Status
-                                   + "\t\t\t Created At: " + tran.CreatedAt +"\n");
-            }
-            DbConnection.Instance().CloseConnection();
-        }
     }
 }
